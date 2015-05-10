@@ -16,6 +16,7 @@ This project relies on [stevekinney/socketry-server][server] and is loosely base
 [denver]: http://www.meetup.com/Ember-js-Denver/events/215907412/
 
 [Example - Ember chat with NodeJS and Redis](https://github.com/beydogan/ember-chat.git)
+
 [Example - Chat backend with socket.io, redis and node.js](https://github.com/beydogan/simple-chat.git)
 
 ![EmberConf Chat Demo](https://cloud.githubusercontent.com/assets/251000/6340926/c849a4e4-bb81-11e4-9dea-67ff26484c47.gif)
